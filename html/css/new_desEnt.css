@@ -152,7 +152,7 @@
 
 .des_open .item .left_area{width: 220px;}
 .des_open .item .left_area .logo{overflow: hidden;margin-bottom: 5px;display: flex;flex-direction: column;justify-content: center;align-items: center;height: 100%;}
-.des_open .item .left_area .logo p{font-size: 30px;text-align: center}
+.des_open .item .left_area .logo p{font-size: 24px;font-weight: 700;text-align: center}
 .des_open .item .left_area .bottom{display: flex;justify-content: space-between;align-items: center;}
 .des_open .item .left_area .name{font-weight: 500;font-size: 18px;width: calc(100% - 50px)}
 .des_open .item .right_area{width: calc(100% - 240px);display:flex;flex-direction:column;}
